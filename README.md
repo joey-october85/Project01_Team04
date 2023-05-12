@@ -38,3 +38,25 @@ Visualizations – Team Effort <br>
 Powerpoint – Bahjo <br>
 Conclusions/Limitations - Joe <br>
 
+
+# Questions
+Review data from year 2000 and later
+
+### ISAAC
+What were the highest/lowest selling games of all time Top/Bottom 50 (BAR GRAPH) 
+What were the Highest/Lowest selling game per year? Top/Bottom 50 (BAR GRAPH) (Bonus: Stacked bar graph of top 3 games per year)
+    
+### BAHJO
+Total sales per country per year? (BAR GRAPH)
+Average score per genre (Statistical Summary (DataFrame))
+Sales breakdown per region (Pie Chart)
+
+### JOE
+What is the Highest/Lowest selling game genre per year/all time? (BAR GRAPH)
+Genre breakdown all time (Pie Chart)
+How many games released per year? (Line Chart)
+
+### JOEY
+Video Games sales (by Platform) per year (Multi Line via Platform)
+Critic Ranking v Sales (Scatter Plot)
+User Ranking v Sales (Scatter Plot)

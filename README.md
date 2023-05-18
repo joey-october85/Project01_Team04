@@ -92,7 +92,15 @@ Using the base dataframe, the following game review information was pulled.
  ## Joe's Analysis
  
  ## Isaac's Analysis
+ In this project I found the highest and lowest selling game of all time. We decided to just present the highest selling game because the global sales weren’t accurate for the lower selling games. The data was in millions so the lowest selling games were labeled at 0.01 million.
  
+We cleaned up the data frame to only show the sales, because that’s what we were focusing on. 
+
+I created a bar graph to show the top 50 highest selling games of all time. The lables of the chart weren’t clean and the names were to long. So I created a code that changed the labels on the x axis to the “Pub” aka publishers.
+Instead of doing the lowest selling games I decided to do the “Top 5 selling publishers”. 
+
+I created a code that pulled the top 5 publishers and their value counts for number of releases. I then created a bar graph for them. To put the icing on the cake, I then got each of these publishers highest selling game from the csv file. 
+
  ## Bahjo's Analysis
  Game Sales Dataframe used to build analysis.
  

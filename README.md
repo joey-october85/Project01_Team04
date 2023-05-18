@@ -51,7 +51,7 @@ What were the highest selling games per Platform? (Table) (2000 - 2016)
 
 Dataset CSV file identified with pathlib and converted to dataframe. This initial dataframe will be used as the basis for all subsequent dataframes/analysis.
 
-#### Joey's Analysis (Platform)
+## Joey's Analysis (Platform)
 Cleaned the initial dataframe to remove null valuesfrom Year of Release and Publisher columns, and converted Year column values from float to int.
 
 Little to no usable data was found for years 2017 and later and therefore all data for these years were dropped to establish a new dataframe. For presentation purposes only a sample of the data was used (2000 - 2016) for Platform analysis.
@@ -89,11 +89,11 @@ Using the base dataframe, the following game review information was pulled.
  A dataframe was created to show all the score data for games where all null values were dropped and then sorted by the user count in descending order. 
  The top five games based on number of reviews were printed.
  
- #### Joe's Analysis
+ ## Joe's Analysis
  
- #### Isaac's Analysis
+ ## Isaac's Analysis
  
- #### Bahjo's Analysis
+ ## Bahjo's Analysis
  Game Sales Dataframe used to build analysis.
  
 Identified the differnt regions and built a list using these column names.

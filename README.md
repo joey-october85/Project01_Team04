@@ -9,27 +9,6 @@ In this analysis we look a dataset of video game sales from 1980 to 2020 where a
 
 Video Game Sales | https://www.kaggle.com/datasets/gregorut/videogamesales
 
-#### Possible Bar Charts:
-What were the highest/lowest selling games of all time 
-What were the Highest/Lowest selling games per year? (10/50/100?)
-What were highest/lowest selling games per country? (10/50/100?)
-What were the Highest/lowest ranked games per year/all time? (10/50/100?)
-What were the Highest/lowest selling genres per year? (10/50/100?)
-What genre/platform/year/region/developer had the highest/lowest ranked games?
-
-#### Possible Pie Charts:
-Sales breakdown per region
-Sales breakdown per platform
-
-#### Possible Line Charts:
-Video Games ales (by Platform) per year (Multi Line via Platform)
-
-#### Possible Scatter Plot:
-Critic Ranking v Sales
-User Ranking v Sales
-
-
-
 #### Tasks:
 Outline – Joey <br>
 Clean Up Process – Team Effort <br>
@@ -37,6 +16,7 @@ Summary – Isaac <br>
 Visualizations – Team Effort <br>
 Powerpoint – Bahjo <br>
 Conclusions/Limitations - Joe <br>
+
 Google Slides - https://docs.google.com/presentation/d/1c6DhoCiIgrAcCUEuCiw0veyT5Agcjflmj0PjtigPn6E/edit#slide=id.p
 
 
@@ -44,18 +24,16 @@ Google Slides - https://docs.google.com/presentation/d/1c6DhoCiIgrAcCUEuCiw0veyT
 Review data from year 2000 and later
 
 ### ISAAC
-What were the highest/lowest selling games of all time Top/Bottom 50 (BAR GRAPH) <br>
-Five most active Publishers (2000 - 2016)
+What were the highest selling games of all time? (BAR GRAPH) <br>
+What were the five most active Publishers (2000 - 2016)?
     
 ### BAHJO
-Total sales per country per year? (BAR GRAPH)<br>
-Average score per genre (Statistical Summary (DataFrame))<br>
-Sales breakdown per region (Pie Chart)
+What were sales breakdown for each regions? (Pie Chart)
 
 ### JOE
-Genre breakdown all time (Pie Chart)<br>
+What is the genre sales breakdown of all time? (Pie Chart)<br>
 How many games released per year? (Line Chart)
 
 ### JOEY
-Video Games sales (by Platform) per year (Multi Line via Platform)<br>
-Highest selling game per Platform (2000 - 2016)
+What were the games sales per platform - per year? (Multi Line via Platform)<br>
+What were the highest selling games per Platform? (Table) (2000 - 2016)

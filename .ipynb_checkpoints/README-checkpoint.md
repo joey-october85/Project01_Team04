@@ -90,6 +90,7 @@ Using the base dataframe, the following game review information was pulled.
  The top five games based on number of reviews were printed.
  
  ## Joe's Analysis
+ For the project 1 code the code imports and reads the csv file for the video game data so it can be analyzed. First the code creates a data frame for the csv file to make it easier to read. Then using .loc the data frame drops any data after the year 2017 since there was not sufficient information on the csv file after that year. Using the clean data the total number of games released was needed. The code calculates the total number of games using .value_counts and then sort_index to put them in order by year. Using this code a line graph is made to show a better visual representation of the release of games each year. Next the total number of games released by genre is needed to be found. Using value_counts again and counting all the Genre tags for the video games a list is made of the total genre of games. Finally using this list a pie chart is created to make a visual representation of how many of each genre of games were released from 1980-2016.
  
  ## Isaac's Analysis
  In this project I found the highest and lowest selling game of all time. We decided to just present the highest selling game because the global sales weren’t accurate for the lower selling games. The data was in millions so the lowest selling games were labeled at 0.01 million.

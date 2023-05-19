@@ -17,7 +17,7 @@ Visualizations – Team Effort <br>
 Powerpoint – Bahjo <br>
 Conclusions/Limitations - Joe <br>
 
-Google Slides - https://docs.google.com/presentation/d/1c6DhoCiIgrAcCUEuCiw0veyT5Agcjflmj0PjtigPn6E/edit#slide=id.p
+Presentation Google Slides - https://docs.google.com/presentation/d/1c6DhoCiIgrAcCUEuCiw0veyT5Agcjflmj0PjtigPn6E/edit#slide=id.p
 
 
 # Questions

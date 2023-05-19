@@ -7,6 +7,10 @@ Team 4 | Isaac . Joe . Bahjo . Joey
 
 In this analysis we look a dataset of video game sales from 1980 to 2020 where and dive into the sales trends across the world. We look at data of a wide range of games and platforms from the Atari 2600 to the Xbox One and Playstation 4; From Asteroids to Super Mario Bros. and beyond…
 
+limitations:
+- Data for 2017 - 2020 was non existent or not usable and therefore omitted from analysis.
+- Dataset contains video games with sales greater than 100,000 copies.
+
 Video Game Sales | https://www.kaggle.com/datasets/gregorut/videogamesales
 
 #### Tasks:
@@ -17,11 +21,10 @@ Visualizations – Team Effort <br>
 Powerpoint – Bahjo <br>
 Conclusions/Limitations - Joe <br>
 
-Presentation Google Slides - https://docs.google.com/presentation/d/1c6DhoCiIgrAcCUEuCiw0veyT5Agcjflmj0PjtigPn6E/edit#slide=id.p
+Presentation Google Slides - https://docs.google.com/presentation/d/1krEFU5OX5014CabNCCe5rjNHV6lhyfkjHY-WynCGR5k/edit#slide=id.g224142b548f_2_15
 
 
 # Questions
-Review data from year 2000 and later
 
 #### ISAAC
 What were the highest selling games of all time? (BAR GRAPH) <br>
